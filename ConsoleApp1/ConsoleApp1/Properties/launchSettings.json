@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\rozda\\source\\repos\\ConsoleApp1\\abc.ogg\r\n"
+    }
+  }
+}
